@@ -5,3 +5,8 @@
 .font-bangla{
     font-family: "Hind Siliguri", sans-serif;
 }
+
+.active-lesson{
+    background-color: #0d05fb;
+    color: white;
+}
